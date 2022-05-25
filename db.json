@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Todos 1",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "value": "Todos 2",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "value": "Todos 3",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "value": "Todos 4",
+      "isComplete": true
+    },
+    {
+      "value": "todos",
+      "isComplete": false,
+      "id": 5
+    },
+    {
+      "value": "manish",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "value": "manish",
+      "isComplete": false,
+      "id": 7
+    }
+  ]
+}
